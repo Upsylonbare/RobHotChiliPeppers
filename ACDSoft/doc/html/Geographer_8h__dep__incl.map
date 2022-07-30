@@ -1,0 +1,14 @@
+<map id="src/Geographer/Geographer.h" name="src/Geographer/Geographer.h">
+<area shape="rect" id="node1" title="This component is the active object of ACDSoft." alt="" coords="627,5,839,32"/>
+<area shape="rect" id="node2" href="$Converter_8h.html" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="274,87,462,114"/>
+<area shape="rect" id="node5" href="$Folder_8c.html" title="This component manages cartographies in storage, converts position_gtk.txt into integer array,..." alt="" coords="5,244,144,271"/>
+<area shape="rect" id="node6" href="$Geographer_8c.html" title="This component is the active object of ACDSoft." alt="" coords="392,244,603,271"/>
+<area shape="rect" id="node7" href="$LiDAR_8h.html" title="This is the header file of LiDAR.c which communicates with the physical LiDAR to get a scan in a txt ..." alt="" coords="553,87,692,114"/>
+<area shape="rect" id="node9" href="$starter_8c.html" title="Starter of ACDSoft." alt="" coords="697,169,796,196"/>
+<area shape="rect" id="node10" href="$Merger_8h.html" title="This component is the raw scan merger." alt="" coords="771,87,923,114"/>
+<area shape="rect" id="node12" href="$NetworkC__Dispatcher_8c.html" title="NetworkC_Dispatcher dispatch the received message." alt="" coords="1098,80,1281,121"/>
+<area shape="rect" id="node3" href="$Converter_8c.html" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="223,169,409,196"/>
+<area shape="rect" id="node4" href="$Folder_8h.html" title="Folder.c header file, which manages cartographies in storage, converts position_gtk...." alt="" coords="58,169,198,196"/>
+<area shape="rect" id="node8" href="$LiDAR_8c.html" title="This component communicates with the physical LiDAR to get a scan in a txt format and converts it to ..." alt="" coords="535,169,673,196"/>
+<area shape="rect" id="node11" href="$Merger_8c.html" title="This component is the raw scan merger." alt="" coords="871,169,1022,196"/>
+</map>

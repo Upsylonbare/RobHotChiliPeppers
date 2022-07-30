@@ -1,0 +1,9 @@
+<map id="src/Folder/Folder.h" name="src/Folder/Folder.h">
+<area shape="rect" id="node1" title="Folder.c header file, which manages cartographies in storage, converts position_gtk...." alt="" coords="135,5,275,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="176,379,258,405"/>
+<area shape="rect" id="node3" href="$Carto_8h.html" title="This component describes the cartography&#39;s model. It also allow the user to modify it&#39;s parameters." alt="" coords="32,229,152,256"/>
+<area shape="rect" id="node5" href="$config_8h.html" title="Global definitions." alt="" coords="152,304,282,331"/>
+<area shape="rect" id="node6" href="$Converter_8h.html" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="47,80,224,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="56,304,127,331"/>
+<area shape="rect" id="node7" href="$Geographer_8h.html" title="This component is the active object of ACDSoft." alt="" coords="30,155,231,181"/>
+</map>

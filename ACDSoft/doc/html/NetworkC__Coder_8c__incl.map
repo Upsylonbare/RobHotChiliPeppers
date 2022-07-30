@@ -1,0 +1,13 @@
+<map id="src/NetworkC/Coder/NetworkC_Coder.c" name="src/NetworkC/Coder/NetworkC_Coder.c">
+<area shape="rect" id="node1" title="Coder encode end decode message to be send or received." alt="" coords="177,5,327,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,169,72,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="74,95,166,121"/>
+<area shape="rect" id="node4" href="$util_8h.html" title="Macros to color the terminal in debug mode and do assert." alt="" coords="190,95,314,121"/>
+<area shape="rect" id="node8" href="$config_8h.html" title="Global definitions." alt="" coords="443,244,586,271"/>
+<area shape="rect" id="node10" href="$NetworkC__Coder_8h.html" title="Header file of NetworkC_Coder.c." alt="" coords="338,95,481,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="247,169,318,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="97,169,172,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="237,244,307,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="419,319,501,345"/>
+<area shape="rect" id="node11" href="$Carto_8h.html" title="This component describes the cartography&#39;s model. It also allow the user to modify it&#39;s parameters." alt="" coords="342,169,474,196"/>
+</map>

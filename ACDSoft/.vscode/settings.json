@@ -1,0 +1,29 @@
+{
+    "files.exclude": {
+    },
+    "files.associations": {
+        "pthread.h": "c",
+        "geographer.h": "c",
+        "config.h": "c",
+        "util.h": "c",
+        "assert.h": "c",
+        "carto.h": "c",
+        "networkc_proxycartomanager.h": "c",
+        "postman.h": "c",
+        "networkc_dispatcher.h": "c",
+        "cmocka.h": "c",
+        "networkc_postman.h": "c",
+        "networkc_coder.h": "c",
+        "stdio.h": "c",
+        "netdb.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "setjmp.h": "c"
+        "lidar.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "libbmp.h": "c",
+        "ui.h": "c"
+    }
+}

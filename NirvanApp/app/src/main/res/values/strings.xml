@@ -1,0 +1,56 @@
+<resources>
+    <!-- Configuration -->
+    <string name="app_name">NirvanApp</string>
+    <string name="project_name">RobHotChiliPeppers</string>
+    <string name="version">0.1</string>
+    <!-- Message -->
+    <string name="welcome_message">Bienvenue sur NirvanApp</string>
+    <string name="project_message">projet : RobHotChiliPeppers</string>
+    <string name="version_message">version : 0.1</string>
+    <string name="connection_message">Connexion à BlackSabbot</string>
+    <string name="scan_place_message">Veuillez sélectionner un repère puis placer le LiDAR sur celui-ci.</string>
+    <string name="scan_mark_message">Liste des repères :</string>
+    <string name="waitscan_message">Le LiDAR est en train d\'explorer…</string>
+    <string name="visualize_message">Visualisation</string>
+    <string name="rawScan_message">Cartographie brute</string>
+    <string name="treatedScan_message">Cartographie traitée</string>
+    <string name="scanName_message">Nom de la cartographie :</string>
+    <string name="defaultScanName_message">Nom</string>
+    <string name="modify_message">Modification</string>
+    <string name="history_message">Liste des visuels :</string>
+    <string name="marks_message">Repères</string>
+    <!-- Button -->
+    <string name="connection_button">se connecter</string>
+    <string name="scan_button">effectuer une cartographie</string>
+    <string name="visualizeCartography_button">gestion des cartographies</string>
+    <string name="startScan_button">lancer l\'exploration</string>
+    <string name="cancel_button">annuler</string>
+    <string name="modify_button">modifier</string>
+    <string name="save_button">sauvegarder</string>
+    <string name="back_button">retour</string>
+    <string name="validate_button">valider</string>
+    <string name="obstacle_button">obstacle</string>
+    <string name="door_button">porte</string>
+    <string name="erase_button">défaire</string>
+    <string name="visualize_button">visualiser</string>
+    <string name="continue_button">continuer</string>
+    <!-- Spinner values -->
+    <string-array name="marks_array">
+        <item>R0</item>
+        <item>R1</item>
+        <item>R2</item>
+        <item>R3</item>
+        <item>R4</item>
+    </string-array>
+    <!-- PopUp -->
+    <string name="popup_quit_title">Quitter</string>
+    <string name="popup_quit_message">Voulez-vous vraiment quitter ?</string>
+    <string name="popup_connectionError_title">Erreur de connexion</string>
+    <string name="popup_connectionError_message">Connexion entre ACDSoft et NirvanApp perdue.</string>
+    <string name="default_popup_error_title">Titre erreur</string>
+    <string name="default_popup_error_message">Message de l\'erreur</string>
+    <string name="confirm_popup">oui</string>
+    <string name="close_popup">non</string>
+    <string name="ok_popup">ok</string>
+
+</resources>

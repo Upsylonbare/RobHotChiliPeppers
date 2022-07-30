@@ -1,0 +1,24 @@
+<map id="src/Geographer/Geographer.c" name="src/Geographer/Geographer.c">
+<area shape="rect" id="node1" title="This component is the active object of ACDSoft." alt="" coords="555,5,766,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,76,114"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,87,184,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="208,87,295,114"/>
+<area shape="rect" id="node5" title=" " alt="" coords="319,87,394,114"/>
+<area shape="rect" id="node6" title=" " alt="" coords="419,87,487,114"/>
+<area shape="rect" id="node7" href="$util_8h.html" title="Macros to color the terminal in debug mode and do assert." alt="" coords="511,87,623,114"/>
+<area shape="rect" id="node12" href="$Geographer_8h.html" title="This component is the active object of ACDSoft." alt="" coords="1045,251,1154,278"/>
+<area shape="rect" id="node16" href="$Converter_8h.html" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="1056,169,1233,196"/>
+<area shape="rect" id="node17" href="$LiDAR_8h.html" title="This is the header file of LiDAR.c which communicates with the physical LiDAR to get a scan in a txt ..." alt="" coords="687,169,815,196"/>
+<area shape="rect" id="node19" href="$Folder_8h.html" title="Folder.c header file, which manages cartographies in storage, converts position_gtk...." alt="" coords="1143,87,1272,114"/>
+<area shape="rect" id="node20" href="$Merger_8h.html" title="This component is the raw scan merger." alt="" coords="890,169,1031,196"/>
+<area shape="rect" id="node21" href="$NetworkC__ProxyCartoManager_8h.html" title="Header file of NetworkC_ProxyCartoManager.c." alt="" coords="615,244,813,285"/>
+<area shape="rect" id="node22" href="$NetworkC__ProxyGUI_8h.html" title="Header file of NetworkC_ProxyGUI.c." alt="" coords="1296,80,1495,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="279,169,346,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="371,169,441,196"/>
+<area shape="rect" id="node10" title=" " alt="" coords="466,169,541,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="655,408,725,435"/>
+<area shape="rect" id="node13" href="$config_8h.html" title="Global definitions." alt="" coords="973,408,1103,435"/>
+<area shape="rect" id="node15" href="$Carto_8h.html" title="This component describes the cartography&#39;s model. It also allow the user to modify it&#39;s parameters." alt="" coords="693,333,813,360"/>
+<area shape="rect" id="node14" title=" " alt="" coords="997,483,1079,509"/>
+<area shape="rect" id="node18" href="$LiDAR__A1M8_8hpp_source.html" title=" " alt="" coords="887,251,1021,278"/>
+</map>

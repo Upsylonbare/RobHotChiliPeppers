@@ -1,0 +1,15 @@
+<map id="src/NetworkC/Proxy/NetworkC_ProxyCartoManager.c" name="src/NetworkC/Proxy/NetworkC_ProxyCartoManager.c">
+<area shape="rect" id="node1" title="Proxy for CartoManager." alt="" coords="192,5,428,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,184,76,211"/>
+<area shape="rect" id="node3" title=" " alt="" coords="52,102,123,129"/>
+<area shape="rect" id="node4" href="$util_8h.html" title="Macros to color the terminal in debug mode and do assert." alt="" coords="147,102,271,129"/>
+<area shape="rect" id="node8" href="$NetworkC__ProxyCartoManager_8h.html" title="Header file of NetworkC_ProxyCartoManager.c." alt="" coords="295,102,528,129"/>
+<area shape="rect" id="node12" href="$NetworkC__Coder_8h.html" title="Header file of NetworkC_Coder.c." alt="" coords="552,102,748,129"/>
+<area shape="rect" id="node13" href="$NetworkC__Postman_8h.html" title="Header File for NetworkC_Postman.c." alt="" coords="772,95,931,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="103,184,170,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="194,184,269,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="321,259,392,285"/>
+<area shape="rect" id="node9" href="$Carto_8h.html" title="This component describes the cartography&#39;s model. It also allow the user to modify it&#39;s parameters." alt="" coords="379,184,511,211"/>
+<area shape="rect" id="node10" title=" " alt="" coords="454,333,537,360"/>
+<area shape="rect" id="node11" href="$config_8h.html" title="Global definitions." alt="" coords="482,259,613,285"/>
+</map>

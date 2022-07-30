@@ -1,0 +1,15 @@
+<map id="src/Config/util.h" name="src/Config/util.h">
+<area shape="rect" id="node1" title="Macros to color the terminal in debug mode and do assert." alt="" coords="1060,5,1183,32"/>
+<area shape="rect" id="node2" href="$Converter_8c.html" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="5,87,192,114"/>
+<area shape="rect" id="node3" href="$Folder_8c.html" title="This component manages cartographies in storage, converts position_gtk.txt into integer array,..." alt="" coords="216,87,355,114"/>
+<area shape="rect" id="node4" href="$Geographer_8c.html" title="This component is the active object of ACDSoft." alt="" coords="379,87,589,114"/>
+<area shape="rect" id="node5" href="$LiDAR_8c.html" title="This component communicates with the physical LiDAR to get a scan in a txt format and converts it to ..." alt="" coords="613,87,752,114"/>
+<area shape="rect" id="node6" href="$Merger_8c.html" title="This component is the raw scan merger." alt="" coords="777,87,927,114"/>
+<area shape="rect" id="node7" href="$NetworkC__Coder_8c.html" title="Coder encode end decode message to be send or received." alt="" coords="951,80,1102,121"/>
+<area shape="rect" id="node8" href="$NetworkC__Dispatcher_8c.html" title="NetworkC_Dispatcher dispatch the received message." alt="" coords="1126,80,1309,121"/>
+<area shape="rect" id="node9" href="$NetworkC_8c.html" title="NetworkC has the ability to relates the connection state of the socket." alt="" coords="1333,87,1521,114"/>
+<area shape="rect" id="node10" href="$NetworkC__Postman_8c.html" title="NetworkC Postman is the interface of the socket." alt="" coords="1545,80,1716,121"/>
+<area shape="rect" id="node11" href="$NetworkC__ProxyCartoManager_8c.html" title="Proxy for CartoManager." alt="" coords="1741,80,1977,121"/>
+<area shape="rect" id="node12" href="$NetworkC__ProxyGUI_8c.html" title="Proxy for GUI." alt="" coords="2001,80,2170,121"/>
+<area shape="rect" id="node13" href="$UI_8c.html" title="This component displays a window with a color related to the current connection state and a quit butt..." alt="" coords="2195,87,2283,114"/>
+</map>

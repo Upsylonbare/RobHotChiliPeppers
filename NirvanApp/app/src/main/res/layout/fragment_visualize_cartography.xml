@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GUI.fragments.VisualizeCartographyFragment">
+
+    <!-- Raw cartography title -->
+
+    <!-- Treated cartography title -->
+
+    <!-- Name title -->
+
+    <!-- Cartography name -->
+
+    <!-- Treated cartography view -->
+
+    <TextView
+        android:id="@+id/visualizeCarto_title_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/visualize_message"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/visualizeCarto_rawScan_texteView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="88dp"
+        android:text="@string/rawScan_message"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.522"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/visualizeCarto_title_textView" />
+
+    <TextView
+        android:id="@+id/visualizeCarto_treatedScan_texteView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="27dp"
+        android:text="@string/treatedScan_message"
+        app:layout_constraintBottom_toTopOf="@+id/visualizeCarto_treatedScan_imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/visualizeCarto_titleName_texteView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:text="@string/scanName_message"
+        app:layout_constraintBaseline_toBaselineOf="@+id/visualizeCarto_name_texteView"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/visualizeCarto_name_texteView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="@string/defaultScanName_message"
+        app:layout_constraintStart_toEndOf="@+id/visualizeCarto_titleName_texteView"
+        app:layout_constraintTop_toBottomOf="@+id/visualizeCarto_title_textView" />
+
+    <!-- Raw cartography view -->
+
+    <!-- Back button -->
+
+    <ImageView
+        android:id="@+id/visualizeCarto_treatedScan_imageView"
+        android:layout_width="349dp"
+        android:layout_height="221dp"
+        android:layout_marginBottom="80dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.571"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/visualizeCarto_rawScan_imageView"
+        android:layout_width="372dp"
+        android:layout_height="289dp"
+        android:layout_marginTop="65dp"
+        android:layout_marginBottom="68dp"
+        app:layout_constraintBottom_toTopOf="@+id/visualizeCarto_treatedScan_texteView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/visualizeCarto_rawScan_texteView" />
+
+    <Button
+        android:id="@+id/visualizeCarto_back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/back_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/visualizeCarto_treatedScan_imageView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,27 @@
+{
+    "tasks": [
+        {
+            "type": "process",
+            "label": "ACDSoft_test",
+            "command": "make",
+            "args": ["tests", "DEBUG=true"],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "group": "build",
+            "detail": "Tâche générée par le débogueur."
+        },
+        {
+            "type": "process",
+            "label": "ACDSoft",
+            "command": "make",
+            "args": ["DEBUG=true"],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "group": "build",
+            "detail": "Tâche générée par le débogueur."
+        },
+    ],
+    "version": "2.0.0"
+}

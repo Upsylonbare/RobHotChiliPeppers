@@ -1,0 +1,7 @@
+<map id="src/Converter/Converter.h" name="src/Converter/Converter.h">
+<area shape="rect" id="node1" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="193,5,381,32"/>
+<area shape="rect" id="node2" href="$Converter_8c.html" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$Folder_8h.html" title="Folder.c header file, which manages cartographies in storage, converts position_gtk...." alt="" coords="217,80,357,107"/>
+<area shape="rect" id="node5" href="$Geographer_8c.html" title="This component is the active object of ACDSoft." alt="" coords="289,155,500,181"/>
+<area shape="rect" id="node4" href="$Folder_8c.html" title="This component manages cartographies in storage, converts position_gtk.txt into integer array,..." alt="" coords="127,155,265,181"/>
+</map>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nirvanapp_navigation"
+    app:startDestination="@id/startFragment">
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.StartFragment"
+        android:label="fragment_start"
+        tools:layout="@layout/fragment_start" >
+        <action
+            android:id="@+id/action_startFragment_to_connectionFragment"
+            app:destination="@id/connectionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/connectionFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.ConnectionFragment"
+        android:label="fragment_connection"
+        tools:layout="@layout/fragment_connection" >
+        <action
+            android:id="@+id/action_connectionFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_historyFragment"
+            app:destination="@id/historyFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_scanFragment"
+            app:destination="@id/scanFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" >
+        <action
+            android:id="@+id/action_historyFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_historyFragment_to_visualizeCartographyFragment"
+            app:destination="@id/visualizeCartographyFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/visualizeCartographyFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.VisualizeCartographyFragment"
+        android:label="fragment_visualize_cartography"
+        tools:layout="@layout/fragment_visualize_cartography" >
+        <action
+            android:id="@+id/action_visualizeCartographyFragment_to_historyFragment"
+            app:destination="@id/historyFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/scanFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.ScanFragment"
+        android:label="fragment_scan"
+        tools:layout="@layout/fragment_scan" >
+        <action
+            android:id="@+id/action_scanFragment_to_waitScanFragment"
+            app:destination="@id/waitScanFragment" />
+        <action
+            android:id="@+id/action_scanFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/waitScanFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.WaitScanFragment"
+        android:label="fragment_wait_scan"
+        tools:layout="@layout/fragment_wait_scan" >
+        <action
+            android:id="@+id/action_waitScanFragment_to_visualizeFragment"
+            app:destination="@id/visualizeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/visualizeFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.VisualizeFragment"
+        android:label="fragment_visualize"
+        tools:layout="@layout/fragment_visualize" >
+        <action
+            android:id="@+id/action_visualizeFragment_to_modifyFragment"
+            app:destination="@id/modifyFragment" />
+        <action
+            android:id="@+id/action_visualizeFragment_to_saveFragment"
+            app:destination="@id/saveFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/modifyFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.ModifyFragment"
+        android:label="fragment_modify"
+        tools:layout="@layout/fragment_modify" >
+        <action
+            android:id="@+id/action_modifyFragment_to_visualizeFragment"
+            app:destination="@id/visualizeFragment" />
+        <action
+            android:id="@+id/action_modifyFragment_to_visualizeFragment2"
+            app:destination="@id/visualizeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/saveFragment"
+        android:name="com.prose.nirvanapp.GUI.fragments.SaveFragment"
+        android:label="fragment_save"
+        tools:layout="@layout/fragment_save" >
+        <action
+            android:id="@+id/action_saveFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+</navigation>

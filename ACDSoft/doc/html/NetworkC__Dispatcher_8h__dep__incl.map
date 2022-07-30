@@ -1,0 +1,6 @@
+<map id="src/NetworkC/Dispatcher/NetworkC_Dispatcher.h" name="src/NetworkC/Dispatcher/NetworkC_Dispatcher.h">
+<area shape="rect" id="node1" title="Header file of NetworkC_Dispatcher.c." alt="" coords="207,5,389,47"/>
+<area shape="rect" id="node2" href="$NetworkC__Dispatcher_8c.html" title="NetworkC_Dispatcher dispatch the received message." alt="" coords="5,95,188,136"/>
+<area shape="rect" id="node3" href="$NetworkC__Postman_8c.html" title="NetworkC Postman is the interface of the socket." alt="" coords="213,95,383,136"/>
+<area shape="rect" id="node4" href="$starter_8c.html" title="Starter of ACDSoft." alt="" coords="407,102,506,129"/>
+</map>

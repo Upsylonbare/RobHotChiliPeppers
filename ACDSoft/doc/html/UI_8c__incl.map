@@ -1,0 +1,13 @@
+<map id="src/UI/UI.c" name="src/UI/UI.c">
+<area shape="rect" id="node1" title="This component displays a window with a color related to the current connection state and a quit butt..." alt="" coords="265,5,353,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,89,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="113,80,200,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="225,80,305,107"/>
+<area shape="rect" id="node5" href="$UI_8h.html" title="This component display a window with a color related to the current connection state and a quit butto..." alt="" coords="329,80,377,107"/>
+<area shape="rect" id="node6" href="$util_8h.html" title="Macros to color the terminal in debug mode and do assert." alt="" coords="401,80,513,107"/>
+<area shape="rect" id="node11" href="$NetworkC_8h.html" title="Header file of NetworkC.c." alt="" coords="537,80,715,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="281,155,347,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="372,155,443,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="467,155,542,181"/>
+<area shape="rect" id="node10" title=" " alt="" coords="567,155,637,181"/>
+</map>

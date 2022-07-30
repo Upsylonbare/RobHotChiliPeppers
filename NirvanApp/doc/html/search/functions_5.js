@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['getbitmap_227',['getBitmap',['../classcom_1_1prose_1_1nirvanapp_1_1_picasso_1_1_picasso.html#a91c9b6b30c06245da57ed61fb6fb4bc0',1,'com::prose::nirvanapp::Picasso::Picasso']]],
+  ['getcartonumberinfile_228',['getCartoNumberInFile',['../classcom_1_1prose_1_1nirvanapp_1_1_carto_manager_1_1_carto_manager.html#aaa1640cd8335bbf8a45ad4ab6bc0f3ee',1,'com::prose::nirvanapp::CartoManager::CartoManager']]],
+  ['getcolor_229',['getColor',['../classcom_1_1prose_1_1nirvanapp_1_1_picasso_1_1_picasso.html#a78dbedaf208fa2614c255ac7be1c57b2',1,'com::prose::nirvanapp::Picasso::Picasso']]],
+  ['getcurrentcarto_230',['getCurrentCarto',['../classcom_1_1prose_1_1nirvanapp_1_1_carto_manager_1_1_carto_manager.html#ae25e866549f3cd051198160bf618fd54',1,'com::prose::nirvanapp::CartoManager::CartoManager']]],
+  ['getipaddress_231',['getIpAddress',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1activities_1_1_main_activity.html#ab1b6fc38632d4eef21276ff39911fb54',1,'com::prose::nirvanapp::GUI::activities::MainActivity']]],
+  ['getipaddress_5fiscorrect_232',['getIpAddress_isCorrect',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1activities_1_1_main_activity_test.html#a41f6d3ffe6768de31931483a3763c286',1,'com::prose::nirvanapp::GUI::activities::MainActivityTest']]],
+  ['getipaddress_5fisnotcorrect_233',['getIpAddress_isNotCorrect',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1activities_1_1_main_activity_test.html#a7bf12bda8a3a324bf409637b574f2cb2',1,'com::prose::nirvanapp::GUI::activities::MainActivityTest']]],
+  ['getmyack4savecarto_234',['getMyAck4SaveCarto',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1viewmodel_1_1_dispatcher_view_model.html#a94da5d4744ff32cdd8db55c67164e0af',1,'com::prose::nirvanapp::GUI::viewmodel::DispatcherViewModel']]],
+  ['getmyack4scan_235',['getMyAck4Scan',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1viewmodel_1_1_dispatcher_view_model.html#a0d493d0f8f5e6f7a16c36d071a26efff',1,'com::prose::nirvanapp::GUI::viewmodel::DispatcherViewModel']]],
+  ['getmyackcarto_236',['getMyAckCarto',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1viewmodel_1_1_dispatcher_view_model.html#a00af9fa8cf4faed9ab56e979c89f29e6',1,'com::prose::nirvanapp::GUI::viewmodel::DispatcherViewModel']]],
+  ['getmyconnectionstate_237',['getMyConnectionState',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1viewmodel_1_1_network_a_view_model.html#a9c970bc050fdecc1c2f9d91696568d7a',1,'com::prose::nirvanapp::GUI::viewmodel::NetworkAViewModel']]],
+  ['getmyidcarto_238',['getMyIdCarto',['../classcom_1_1prose_1_1nirvanapp_1_1_carto_manager_1_1_carto.html#a01b178a35423ade41676db0b35105a1c',1,'com::prose::nirvanapp::CartoManager::Carto']]],
+  ['getname_239',['getName',['../classcom_1_1prose_1_1nirvanapp_1_1_carto_manager_1_1_carto.html#a1d0d5cde410b590b6b9881bd36a591c0',1,'com::prose::nirvanapp::CartoManager::Carto']]],
+  ['getnetworka_240',['getNetworkA',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1activities_1_1_main_activity.html#a35e34b9822fb8a066a466b0fedd13765',1,'com::prose::nirvanapp::GUI::activities::MainActivity']]],
+  ['getportnumber_241',['getPortNumber',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1activities_1_1_main_activity.html#ad8ae41ece58248adfb7dfc0cfc40af38',1,'com::prose::nirvanapp::GUI::activities::MainActivity']]],
+  ['getportnumber_5fiscorrect_242',['getPortNumber_isCorrect',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1activities_1_1_main_activity_test.html#a076f74e7a281cfb413e720a31683bfbd',1,'com::prose::nirvanapp::GUI::activities::MainActivityTest']]],
+  ['getportnumber_5fisnotcorrect_243',['getPortNumber_isNotCorrect',['../classcom_1_1prose_1_1nirvanapp_1_1_g_u_i_1_1activities_1_1_main_activity_test.html#a6aaae206fbe5754a2f140c87b17ccbab',1,'com::prose::nirvanapp::GUI::activities::MainActivityTest']]],
+  ['getrawscan_244',['getRawScan',['../classcom_1_1prose_1_1nirvanapp_1_1_carto_manager_1_1_carto.html#a976a0c0bb635b302b4b4f3752eacb8de',1,'com::prose::nirvanapp::CartoManager::Carto']]],
+  ['getstrokewidth_245',['getStrokeWidth',['../classcom_1_1prose_1_1nirvanapp_1_1_picasso_1_1_picasso.html#a7621f2b9cb36a3b9b5d48b1045d5d145',1,'com::prose::nirvanapp::Picasso::Picasso']]],
+  ['gettreatedscan_246',['getTreatedScan',['../classcom_1_1prose_1_1nirvanapp_1_1_carto_manager_1_1_carto.html#a01f2f3da2cab3f29ac8a46019c274824',1,'com::prose::nirvanapp::CartoManager::Carto']]]
+];

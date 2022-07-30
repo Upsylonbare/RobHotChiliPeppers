@@ -1,0 +1,7 @@
+<map id="src/NetworkC/NetworkC.h" name="src/NetworkC/NetworkC.h">
+<area shape="rect" id="node1" title="Header file of NetworkC.c." alt="" coords="313,5,502,32"/>
+<area shape="rect" id="node2" href="$NetworkC__Dispatcher_8c.html" title="NetworkC_Dispatcher dispatch the received message." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node3" href="$NetworkC_8c.html" title="NetworkC has the ability to relates the connection state of the socket." alt="" coords="212,87,400,114"/>
+<area shape="rect" id="node4" href="$NetworkC__Postman_8c.html" title="NetworkC Postman is the interface of the socket." alt="" coords="425,80,595,121"/>
+<area shape="rect" id="node5" href="$UI_8c.html" title="This component displays a window with a color related to the current connection state and a quit butt..." alt="" coords="619,87,707,114"/>
+</map>
