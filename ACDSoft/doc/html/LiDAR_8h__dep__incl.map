@@ -1,6 +1,0 @@
-<map id="src/LiDAR/LiDAR.h" name="src/LiDAR/LiDAR.h">
-<area shape="rect" id="node1" title="This is the header file of LiDAR.c which communicates with the physical LiDAR to get a scan in a txt ..." alt="" coords="240,5,379,32"/>
-<area shape="rect" id="node2" href="$Geographer_8c.html" title="This component is the active object of ACDSoft." alt="" coords="5,80,216,107"/>
-<area shape="rect" id="node3" href="$LiDAR_8c.html" title="This component communicates with the physical LiDAR to get a scan in a txt format and converts it to ..." alt="" coords="240,80,379,107"/>
-<area shape="rect" id="node4" href="$starter_8c.html" title="Starter of ACDSoft." alt="" coords="403,80,501,107"/>
-</map>

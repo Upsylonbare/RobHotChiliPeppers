@@ -1,8 +1,0 @@
-<map id="src/Converter/Converter.h" name="src/Converter/Converter.h">
-<area shape="rect" id="node1" title="This component converts the raw data returned by the LiDAR physical component into a two&#45;dimensional ..." alt="" coords="27,5,215,32"/>
-<area shape="rect" id="node2" href="$Geographer_8h.html" title="This component is the active object of ACDSoft." alt="" coords="21,80,222,107"/>
-<area shape="rect" id="node3" href="$config_8h.html" title="Global definitions." alt="" coords="5,229,136,256"/>
-<area shape="rect" id="node5" href="$Carto_8h.html" title="This component describes the cartography&#39;s model. It also allow the user to modify it&#39;s parameters." alt="" coords="112,155,232,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="80,304,163,331"/>
-<area shape="rect" id="node6" title=" " alt="" coords="211,229,282,256"/>
-</map>

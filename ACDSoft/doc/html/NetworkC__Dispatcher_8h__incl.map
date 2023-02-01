@@ -1,8 +1,0 @@
-<map id="src/NetworkC/Dispatcher/NetworkC_Dispatcher.h" name="src/NetworkC/Dispatcher/NetworkC_Dispatcher.h">
-<area shape="rect" id="node1" title="Header file of NetworkC_Dispatcher.c." alt="" coords="40,5,223,47"/>
-<area shape="rect" id="node2" href="$NetworkC__Coder_8h.html" title="Header file of NetworkC_Coder.c." alt="" coords="33,95,229,121"/>
-<area shape="rect" id="node3" href="$config_8h.html" title="Global definitions." alt="" coords="5,244,148,271"/>
-<area shape="rect" id="node5" href="$Carto_8h.html" title="This component describes the cartography&#39;s model. It also allow the user to modify it&#39;s parameters." alt="" coords="119,169,251,196"/>
-<area shape="rect" id="node4" title=" " alt="" coords="90,319,173,345"/>
-<area shape="rect" id="node6" title=" " alt="" coords="224,244,295,271"/>
-</map>

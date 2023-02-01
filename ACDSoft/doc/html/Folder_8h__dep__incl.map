@@ -1,5 +1,0 @@
-<map id="src/Folder/Folder.h" name="src/Folder/Folder.h">
-<area shape="rect" id="node1" title="Folder.c header file, which manages cartographies in storage, converts position_gtk...." alt="" coords="103,5,243,32"/>
-<area shape="rect" id="node2" href="$Folder_8c.html" title="This component manages cartographies in storage, converts position_gtk.txt into integer array,..." alt="" coords="5,80,144,107"/>
-<area shape="rect" id="node3" href="$Geographer_8c.html" title="This component is the active object of ACDSoft." alt="" coords="168,80,379,107"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="src/NetworkC/Postman/NetworkC_Postman.h" name="src/NetworkC/Postman/NetworkC_Postman.h">
-<area shape="rect" id="node1" title="Header File for NetworkC_Postman.c." alt="" coords="441,5,611,47"/>
-<area shape="rect" id="node2" href="$NetworkC__Dispatcher_8c.html" title="NetworkC_Dispatcher dispatch the received message." alt="" coords="5,95,188,136"/>
-<area shape="rect" id="node3" href="$NetworkC__Postman_8c.html" title="NetworkC Postman is the interface of the socket." alt="" coords="213,95,383,136"/>
-<area shape="rect" id="node4" href="$NetworkC__ProxyCartoManager_8c.html" title="Proxy for CartoManager." alt="" coords="408,95,644,136"/>
-<area shape="rect" id="node5" href="$NetworkC__ProxyGUI_8c.html" title="Proxy for GUI." alt="" coords="668,95,837,136"/>
-<area shape="rect" id="node6" href="$starter_8c.html" title="Starter of ACDSoft." alt="" coords="862,102,961,129"/>
-</map>
